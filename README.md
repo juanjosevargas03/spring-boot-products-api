@@ -1,11 +1,12 @@
 # spring-boot-products-api
 
-this project is a spring boot api that uses mysql as database
+This project is a spring boot api that uses mysql as database
 
-to run you must have the mysql server running locally and the credentials are in application.properties
+To run you must have the mysql server running locally and the credentials are in application.properties
 
 
-endpoint to create a product
+
+Endpoint to create a product
 
 
 ![image](https://user-images.githubusercontent.com/75379137/147426054-899853a8-0f82-490e-874a-6a72069b2555.png)
@@ -13,7 +14,7 @@ endpoint to create a product
 
 
 
-endpoint to update a product
+Endpoint to update a product
 
 
 ![image](https://user-images.githubusercontent.com/75379137/147426611-bd3e3448-c244-4396-a9d7-c76cab708f97.png)
@@ -21,14 +22,14 @@ endpoint to update a product
 
 
 
-endpoint to search for a product by name
+Endpoint to search for a product by name
 
 
 ![image](https://user-images.githubusercontent.com/75379137/147426733-e98c254b-0043-4f1c-b3fe-2218319f58ab.png)
 
 
 
-endpoint to see the list of most wanted products
+Endpoint to see the list of most wanted products
 
 
 ![image](https://user-images.githubusercontent.com/75379137/147426943-7b0138a0-77a4-46e2-9729-caf911ce32ea.png)
